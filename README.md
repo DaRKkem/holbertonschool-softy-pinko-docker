@@ -1,4 +1,5 @@
 # Softy Pinko Docker
+![Docker](https://img.shields.io/badge/Docker-24.0-blue) ![Python](https://img.shields.io/badge/Python-3.12-blue) ![Flask](https://img.shields.io/badge/Flask-3.x-lightgrey) ![Nginx](https://img.shields.io/badge/Nginx-1.24-green)
 
 This repository contains a progressive Docker project that incrementally builds a multi-service web architecture. Starting from a single container with a basic welcome script, it evolves through Flask API integration, multi-container orchestration, CORS configuration, Docker Compose management, reverse proxy setup, and horizontal scaling.
 
@@ -16,4 +17,12 @@ This repository contains a progressive Docker project that incrementally builds 
 
 ---
 
-**Author:** Damien Rossi - **[DaRKkem](https://github.com/DaRKkem)** -- Holberton School, cohort C28, Auvergne-Rhone-Alpes
+Repository
+
+GitHub repository: holbertonschool-softy-pinko-docker
+
+---
+
+Author
+
+Damien Rossi - DaRKkem — Holberton School, cohort C28, Auvergne-Rhône-Alpes
